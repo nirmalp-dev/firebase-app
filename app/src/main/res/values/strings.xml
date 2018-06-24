@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">firebase app</string>
+    <string-array name="batches">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+</resources>
+
